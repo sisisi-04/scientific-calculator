@@ -18,4 +18,4 @@ A simple scientific calculator built using HTML, CSS and JavaScript.
 - JavaScript
 
 ## Author
-Your Name
+Gayathry Sumesh
